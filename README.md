@@ -1,6 +1,9 @@
 # Discord-Nitro-Generator
 The script generates random Discord Nitro gift codes, sends requests to redeem them.
 
+EDIT:-
+DISCORD_WEBHOOK_URL = "YOUR_WEBHOOK_URL"--- To your own webhook url
+
 The provided Script serves as a basic Discord Nitro generator. It continuously generates random alphanumeric codes and attempts to redeem them on the Discord platform via API requests. Here's a breakdown of how it works:
 
 Code Generation: It generates random alphanumeric strings of 18 characters, simulating potential Discord Nitro gift codes.
